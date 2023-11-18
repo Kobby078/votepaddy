@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/votepaddy/static/css/main.5adbc3f1.css",
-    "main.js": "/votepaddy/static/js/main.a11ea635.js",
+    "main.js": "/votepaddy/static/js/main.c32257f8.js",
     "static/media/banner.jpg": "/votepaddy/static/media/banner.c243ec70be88772a6e2a.jpg",
     "static/media/MontserratExtraBold.ttf": "/votepaddy/static/media/MontserratExtraBold.6c8b198832c88c649faa.ttf",
     "static/media/MontserratBold.ttf": "/votepaddy/static/media/MontserratBold.50f0257aa1e905f4bfaf.ttf",
@@ -26,10 +26,10 @@
     "static/media/facebook.png": "/votepaddy/static/media/facebook.4f037d961598aff2a0a4.png",
     "index.html": "/votepaddy/index.html",
     "main.5adbc3f1.css.map": "/votepaddy/static/css/main.5adbc3f1.css.map",
-    "main.a11ea635.js.map": "/votepaddy/static/js/main.a11ea635.js.map"
+    "main.c32257f8.js.map": "/votepaddy/static/js/main.c32257f8.js.map"
   },
   "entrypoints": [
     "static/css/main.5adbc3f1.css",
-    "static/js/main.a11ea635.js"
+    "static/js/main.c32257f8.js"
   ]
 }
