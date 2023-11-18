@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/votepaddy/static/css/main.5adbc3f1.css",
+    "main.js": "/votepaddy/static/js/main.a11ea635.js",
+    "static/media/banner.jpg": "/votepaddy/static/media/banner.c243ec70be88772a6e2a.jpg",
+    "static/media/MontserratExtraBold.ttf": "/votepaddy/static/media/MontserratExtraBold.6c8b198832c88c649faa.ttf",
+    "static/media/MontserratBold.ttf": "/votepaddy/static/media/MontserratBold.50f0257aa1e905f4bfaf.ttf",
+    "static/media/MontserratRomanSemiBold.ttf": "/votepaddy/static/media/MontserratRomanSemiBold.93b37a465fc4ec0d0415.ttf",
+    "static/media/RalewayRegular.ttf": "/votepaddy/static/media/RalewayRegular.c15b0bf7b86f34335251.ttf",
+    "static/media/PoppinsLight.ttf": "/votepaddy/static/media/PoppinsLight.7641a0f76ca9ef6c252c.ttf",
+    "static/media/PoppinsRegular.ttf": "/votepaddy/static/media/PoppinsRegular.35d26b781dc5fda684cc.ttf",
+    "static/media/PoppinsMedium.ttf": "/votepaddy/static/media/PoppinsMedium.673ed42382ab264e0bf5.ttf",
+    "static/media/PoppinsSemiBold.ttf": "/votepaddy/static/media/PoppinsSemiBold.ac8d04b620e54be9b0f0.ttf",
+    "static/media/PoppinsBold.ttf": "/votepaddy/static/media/PoppinsBold.cdb29a5d7ccf57ff05a3.ttf",
+    "static/media/OpenSansRomanExtraBold.ttf": "/votepaddy/static/media/OpenSansRomanExtraBold.6a7a95b823f21d230e6d.ttf",
+    "static/media/MulishBold.ttf": "/votepaddy/static/media/MulishBold.6cb68186a91bb3fcb0b7.ttf",
+    "static/media/MulishRegular.ttf": "/votepaddy/static/media/MulishRegular.d3d302e1573fb1c8db5b.ttf",
+    "static/media/instagram.png": "/votepaddy/static/media/instagram.e719d8b29f452a16302d.png",
+    "static/media/LeagueSpartanExtraBold.ttf": "/votepaddy/static/media/LeagueSpartanExtraBold.3273ea0e69650f114210.ttf",
+    "static/media/SoraRegular.ttf": "/votepaddy/static/media/SoraRegular.a54e6579ded91d45daa1.ttf",
+    "static/media/LeagueSpartanBold.ttf": "/votepaddy/static/media/LeagueSpartanBold.c311dbd01e80ebe50942.ttf",
+    "static/media/LeagueSpartanMedium.ttf": "/votepaddy/static/media/LeagueSpartanMedium.a8c3b9360d69edbcf13e.ttf",
+    "static/media/twitter.png": "/votepaddy/static/media/twitter.7e40f617aaa8eca864bb.png",
+    "static/media/google.png": "/votepaddy/static/media/google.e12914ad8afda3f6f2e8.png",
+    "static/media/linkedin.png": "/votepaddy/static/media/linkedin.f249b38224ca41a0b909.png",
+    "static/media/facebook.png": "/votepaddy/static/media/facebook.4f037d961598aff2a0a4.png",
+    "index.html": "/votepaddy/index.html",
+    "main.5adbc3f1.css.map": "/votepaddy/static/css/main.5adbc3f1.css.map",
+    "main.a11ea635.js.map": "/votepaddy/static/js/main.a11ea635.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5adbc3f1.css",
+    "static/js/main.a11ea635.js"
+  ]
+}
