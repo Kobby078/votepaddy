@@ -1,5 +1,5 @@
 :root {
-  --primary: #A91C00;
+  --primary: #FF7C03;
   --secondary: rgba(255, 255, 255, 0.78);
   --black: rgb(18, 18, 18);
   --blue-gradient: linear-gradient(97.05deg, #4066ff 3.76%, #2949c6 100%);
@@ -95,10 +95,10 @@ a {
 }
 
 .e-card:hover {
-  border: none;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  /* border: none; */
+  box-shadow: 0 0 10px rgb(0, 0, 0 );
   cursor: pointer;
-  transform: scale(1.1);
+  /* transform: scale(1.1); */
 }
 
 

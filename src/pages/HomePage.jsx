@@ -17,24 +17,34 @@ export const HomePage = () => {
     return (
         <>        
             <div className="home-main">
+                <span className="h-link">
+                    <a href="http://" className="flexEnd h-links">
+                        CLICK HERE TO REGISTER AS  EVENT ORGANIZER
+                    </a>
+                </span>
                 <div className="banner">
                     <img className="banner-image" src={banner} alt="Banner"/>
                 </div>
                 <div className="home-text">
                     <span>Elevate  your events with VotePaddy’s <br />seamless voting solutions.</span>
                     <button className="text-reg">
-                        <a href="https://www.google.com/" target="_blank" rel="noreferrer">Register Now</a>   
+                        <a href="https://www.google.com/" target="_blank" rel="noreferrer">
+                            Register As Event Organizer <br />
+                            Today
+                        </a>   
                     </button>
                 </div>
-                <div className="flexColCenter">
+                <div className="flexColCenter e-text">
                     <div className="flexColCenter event-subText">
-                        <p>Event</p>
+                        <p>Events</p>
                         <p>
                             Choose an ongoing event and start voting for your favourite participant(s).
                         </p>
                     </div>
                 
-                    <div className="flexCenter innerWidth c-wrapper">
+                </div>
+                <div className="flexCenter events">
+                    <div className="flexCenter c-wrapper">
                         {firstFive.map(product => (
                             <Card
                                 key={product.eventName}

@@ -12,8 +12,8 @@ const ImageLink = ({ imageUrl, linkUrl, altText }) => {
         src={imageUrl}
         alt={altText}
         style={{
-          width: '30px', 
-          height: '30px', 
+          width: '20px', 
+          height: '20px', 
           borderRadius: '50%',
         }}
       />

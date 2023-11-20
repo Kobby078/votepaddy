@@ -12,7 +12,7 @@ const Navigation = () => {
   return (
     <nav className="navigation">
         <div className="nav-image">
-          <Link to="/" className='title'>
+          <Link to="/" className='flexCenter title'>
             <img
             src={Rectangle}  // Replace with the path to your image
             alt="Logo"
@@ -29,9 +29,9 @@ const Navigation = () => {
           <ul className={menuOpen ? "open" : ""}>
             <NavLink to="/">Home</NavLink>
             <NavLink to="/events">Events</NavLink>
-            <NavLink to="/Terms-Condition">Terms</NavLink>
-            <NavLink to="/contact">Contact</NavLink>
             <NavLink to="/aboutUs">About Us</NavLink>
+            <NavLink to="/contact">Contact Us</NavLink>
+            <NavLink to="/Terms-Condition">Terms & Conditions</NavLink>
           </ul>
         </div>
     </nav>
