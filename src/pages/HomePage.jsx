@@ -8,12 +8,6 @@ import Card from "../components/Card";
 export const HomePage = () => {
     const firstFive = data.slice(0, 8)
 
-   
-
-  
-
-
-
     return (
         <>        
             <div className="home-main">
@@ -54,6 +48,8 @@ export const HomePage = () => {
                             />
                             ))
                         }
+
+                        
                     </div>
                 </div>
             </div>
