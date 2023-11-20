@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/votepaddy/static/css/main.5adbc3f1.css",
-    "main.js": "/votepaddy/static/js/main.c32257f8.js",
+    "main.css": "/votepaddy/static/css/main.31d0b1c6.css",
+    "main.js": "/votepaddy/static/js/main.e344d33d.js",
     "static/media/banner.jpg": "/votepaddy/static/media/banner.c243ec70be88772a6e2a.jpg",
     "static/media/MontserratExtraBold.ttf": "/votepaddy/static/media/MontserratExtraBold.6c8b198832c88c649faa.ttf",
     "static/media/MontserratBold.ttf": "/votepaddy/static/media/MontserratBold.50f0257aa1e905f4bfaf.ttf",
@@ -25,11 +25,11 @@
     "static/media/linkedin.png": "/votepaddy/static/media/linkedin.f249b38224ca41a0b909.png",
     "static/media/facebook.png": "/votepaddy/static/media/facebook.4f037d961598aff2a0a4.png",
     "index.html": "/votepaddy/index.html",
-    "main.5adbc3f1.css.map": "/votepaddy/static/css/main.5adbc3f1.css.map",
-    "main.c32257f8.js.map": "/votepaddy/static/js/main.c32257f8.js.map"
+    "main.31d0b1c6.css.map": "/votepaddy/static/css/main.31d0b1c6.css.map",
+    "main.e344d33d.js.map": "/votepaddy/static/js/main.e344d33d.js.map"
   },
   "entrypoints": [
-    "static/css/main.5adbc3f1.css",
-    "static/js/main.c32257f8.js"
+    "static/css/main.31d0b1c6.css",
+    "static/js/main.e344d33d.js"
   ]
 }
