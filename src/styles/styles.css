@@ -26,13 +26,13 @@ h1 {
     background: #A91C00;
     color: #fff;
     padding: 10px 20px;
-    height: 50px;
+    height: 80px;
   }
   
   .header-text {
     width: 80%;
     font-size: 14px;
-    font-weight: bold;
+    font-weight: 500;
   }
   
   .social-media-icons {
@@ -46,8 +46,8 @@ h1 {
   }
   
   .social-media-icons img {
-    width: 30px;
-    height: 30px;
+    width: 20px;
+    height: 20px;
   }
   
   @media (max-width: 768px) {
@@ -68,20 +68,20 @@ h1 {
 
 .logo {
     margin-left: 25px;
-    height: 35px;
+    height: 50px;
   }
 .logo-foot {
     height: 50px;
   }
 
 .navigation {
-    background-color: rgb(228, 185, 132);
-    height: 40px;
-
+    /* background-color: rgb(228, 185, 132); */
+    border-bottom: 3px solid rgb(228, 185, 132);
+    height: 50px;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    position: sticky;
+    position: relative;
     top: 0;
     z-index: 1;
 }
@@ -122,13 +122,13 @@ nav ul li {
   }
 
   .nav-image {
-    height: 40px;
+    height: 50px;
   }
 
   nav .menu {
     display: none;
     position: absolute;
-    top: 0.3rem;
+    top: 0.5rem;
     right: 0.5rem;
     flex-direction: column;
     justify-content: space-between;
@@ -154,9 +154,14 @@ nav .title {
 
 @media (max-width: 480px) {
 
+    .navigation {
+      position: relative;
+    }
+
     .nav-links {
       background-color: rgb(228, 185, 132, 0.623);
       width: 100%;
+      padding-top: 5px;
     }
 
     .nav-links a::after {
@@ -215,11 +220,11 @@ nav .title {
 }
 
 .home-main {
+  width: 100%;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  width: 90%;
   margin: 0 auto;
   padding-bottom: 2.5rem;
 }
@@ -254,10 +259,9 @@ nav .title {
 }
 
 .banner {
-  height: 600px;
-  width: 90%;
+  height: 570px;
+  width: 100%;
   background-color: #000;
-  margin-top: 15px;
 }
 
 .banner-image {
